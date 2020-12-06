@@ -1,0 +1,229 @@
+[
+  {
+    "Duration": "V3",
+    "Belgium": 0.0222,
+    "Youtube": 5.326,
+    "Dblp": 0.1808,
+    "Mycielskian": 15.901,
+    "Naca": 0.2779
+  },
+  {
+    "Duration": "V3_cilk_1",
+    "Belgium": 0.0332,
+    "Youtube": 5.7368,
+    "Dblp": 0.2273,
+    "Mycielskian": 17.1188,
+    "Naca": 0.3645
+  },
+  {
+    "Duration": "V3_cilk_5",
+    "Belgium": 0.0094,
+    "Youtube": 1.7094,
+    "Dblp": 0.2738,
+    "Mycielskian": 4.1795,
+    "Naca": 0.6113
+  },
+  {
+    "Duration": "V3_cilk_10",
+    "Belgium": 0.0078,
+    "Youtube": 1.4108,
+    "Dblp": 0.3058,
+    "Mycielskian": 2.9742,
+    "Naca": 0.7684
+  },
+  {
+    "Duration": "V3_cilk_15",
+    "Belgium": 0.029,
+    "Youtube": 1.3716,
+    "Dblp": 0.4542,
+    "Mycielskian": 3.0176,
+    "Naca": 0.7561
+  },
+  {
+    "Duration": "V3_cilk_20",
+    "Belgium": 0.0128,
+    "Youtube": 1.3799,
+    "Dblp": 0.3482,
+    "Mycielskian": 3.1842,
+    "Naca": 0.8068
+  },
+  {
+    "Duration": "V3_openmp_1",
+    "Belgium": 0.024594,
+    "Youtube": 5.331829,
+    "Dblp": 0.224433,
+    "Mycielskian": 15.132623,
+    "Naca": 0.3134
+  },
+  {
+    "Duration": "V3_openmp_5",
+    "Belgium": 0.010333,
+    "Youtube": 2.628881,
+    "Dblp": 0.164632,
+    "Mycielskian": 8.17342,
+    "Naca": 0.2728
+  },
+  {
+    "Duration": "V3_openmp_10",
+    "Belgium": 0.015288,
+    "Youtube": 2.085189,
+    "Dblp": 0.212941,
+    "Mycielskian": 7.713512,
+    "Naca": 0.4656
+  },
+  {
+    "Duration": "V3_openmp_15",
+    "Belgium": 0.029088,
+    "Youtube": 1.838266,
+    "Dblp": 0.213825,
+    "Mycielskian": 5.412152,
+    "Naca": 0.57187
+  },
+  {
+    "Duration": "V3_openmp_20",
+    "Belgium": 0.009757,
+    "Youtube": 1.87816,
+    "Dblp": 0.225926,
+    "Mycielskian": 5.407948,
+    "Naca": 0.522792
+  },
+  {
+    "Duration": "Sum_triangles",
+    "Belgium": 2420,
+    "Youtube": 3056386,
+    "Dblp": 1676652,
+    "Mycielskian": 0,
+    "Naca": 2075635
+  },
+  {
+    "Duration": "Duration",
+    "Belgium": "Belgium",
+    "Youtube": "Youtube",
+    "Dblp": "Dblp",
+    "Mycielskian": "Mycielskian",
+    "Naca": "Naca"
+  },
+  {
+    "Duration": "V4",
+    "Belgium": 0.095838,
+    "Youtube": 1.415035,
+    "Dblp": 0.111915,
+    "Mycielskian": 0.503888,
+    "Naca": 0.410702
+  },
+  {
+    "Duration": "V4_cilk_1",
+    "Belgium": 0.50309,
+    "Youtube": 15.303819,
+    "Dblp": 0.465286,
+    "Mycielskian": 3.584178,
+    "Naca": 2.094974
+  },
+  {
+    "Duration": "V4_cilk_5",
+    "Belgium": 0.172311,
+    "Youtube": 3.639232,
+    "Dblp": 0.220267,
+    "Mycielskian": 1.068718,
+    "Naca": 0.526817
+  },
+  {
+    "Duration": "V4_cilk_10",
+    "Belgium": 0.180342,
+    "Youtube": 2.291679,
+    "Dblp": 0.216756,
+    "Mycielskian": 0.72242,
+    "Naca": 0.428876
+  },
+  {
+    "Duration": "V4_cilk_15",
+    "Belgium": 0.206883,
+    "Youtube": 1.951196,
+    "Dblp": 0.224433,
+    "Mycielskian": 0.587417,
+    "Naca": 0.515551
+  },
+  {
+    "Duration": "V4_cilk_20",
+    "Belgium": 0.362415,
+    "Youtube": 2.006185,
+    "Dblp": 0.17073,
+    "Mycielskian": 0.886515,
+    "Naca": 0.415661
+  },
+  {
+    "Duration": "V4_openmp_1",
+    "Belgium": 0.371763,
+    "Youtube": 16.44277,
+    "Dblp": 0.424253,
+    "Mycielskian": 3.550594,
+    "Naca": 1.621274
+  },
+  {
+    "Duration": "V4_openmp_5",
+    "Belgium": 0.157789,
+    "Youtube": 13.414938,
+    "Dblp": 0.192984,
+    "Mycielskian": 2.010041,
+    "Naca": 0.605303
+  },
+  {
+    "Duration": "V4_openmp_10",
+    "Belgium": 0.155964,
+    "Youtube": 11.820765,
+    "Dblp": 0.299626,
+    "Mycielskian": 1.516984,
+    "Naca": 0.38047
+  },
+  {
+    "Duration": "V4_openmp_15",
+    "Belgium": 0.150575,
+    "Youtube": 10.07262,
+    "Dblp": 0.180519,
+    "Mycielskian": 1.363129,
+    "Naca": 0.401336
+  },
+  {
+    "Duration": "V4_openmp_20",
+    "Belgium": 0.143853,
+    "Youtube": 9.358203,
+    "Dblp": 0.111859,
+    "Mycielskian": 1.334558,
+    "Naca": 0.432415
+  },
+  {
+    "Duration": "V4_pthreads_1",
+    "Belgium": 0.032799,
+    "Dblp": 0.010347,
+    "Mycielskian": 0.020995,
+    "Naca": 0.050636
+  },
+  {
+    "Duration": "V4_pthreads_5",
+    "Belgium": 0.033899,
+    "Dblp": 0.010692,
+    "Mycielskian": 0.005408,
+    "Naca": 0.041621
+  },
+  {
+    "Duration": "V4_pthreads_10",
+    "Belgium": 0.031342,
+    "Dblp": 0.01043,
+    "Mycielskian": 0.00531,
+    "Naca": 0.038983
+  },
+  {
+    "Duration": "V4_pthreads_15",
+    "Belgium": 0.031808,
+    "Dblp": 0.010287,
+    "Mycielskian": 0.006056,
+    "Naca": 0.0388
+  },
+  {
+    "Duration": "V4_pthreads_20",
+    "Belgium": 0.035991,
+    "Dblp": 0.010767,
+    "Mycielskian": 0.005107,
+    "Naca": 0.040593
+  }
+]
